@@ -3,6 +3,7 @@ https://yoplom.github.io/hexagoneIT-test/
 
 # Les différentes pages
 / 
+
 /lost  
 /code=[code compris entre 701 et 799]  
 /admin  
