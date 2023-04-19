@@ -2,10 +2,10 @@
 https://yoplom.github.io/hexagoneIT-test/
 
 # Les différentes pages
-/
-/lost
-/code=[code compris entre 701 et 799]
-/admin
+/ 
+/lost  
+/code=[code compris entre 701 et 799]  
+/admin  
 Toutes les routes sont listées dans le fichier src/router/index.js.
 
 # L'arborescence des fichiers
