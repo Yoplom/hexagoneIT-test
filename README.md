@@ -10,9 +10,9 @@ https://yoplom.github.io/hexagoneIT-test/
 Toutes les routes sont listées dans le fichier src/router/index.js.
 
 # L'arborescence des fichiers
-Les fichiers Modal.vue et Loader.vue servent de modèle.
-Le coeur du projet réside dans le fichier TheWelcome.vue. 
-Comme demandé, celui-ci gère la gestion aléatoire des excuses et l'affichage du message correspondant au code http dans l'url.
+Les fichiers Modal.vue et Loader.vue servent de modèle.  
+Le coeur du projet réside dans le fichier TheWelcome.vue.   
+Comme demandé, celui-ci gère la gestion aléatoire des excuses et l'affichage du message correspondant au code http dans l'url.  
 
 # vue-project
 This template should help get you started developing with Vue 3 in Vite.
